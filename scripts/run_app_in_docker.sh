@@ -3,7 +3,7 @@
 echo "Executando o IWSHAP.."
 echo ""
 
-python3 IWSHAP.py -s dataset/safe_dataset_reduced.csv -a dataset/attack_dataset_reduced_fabr.csv -x -n
+python3 IWSHAP.py -s dataset/safe_dataset.csv -a dataset/attack_dataset_fabr.csv -x -n
 
 echo "Processo finalizado!"
 
