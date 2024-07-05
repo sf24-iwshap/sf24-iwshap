@@ -139,7 +139,7 @@ O IWSHAP disponibiliza um ambiente Docker com todas as configurações e depend�
 | **-a**     | --attack-path   | Caminho para o dataset maligno | Sim |
 | **-l**     | --log-path      | Caminho para armazenamento dos logs | Não |
 | **-g**     | --graphics-path | Caminho para armazenamento dos gráficos | Não  |
-| **-x**     | -explainable   | Define a criação de um gráfico Summary Plot das features mais importantes | Não |
+| **-x**     | --explanable   | Define a criação de um gráfico Summary Plot das features mais importantes | Não |
 | **-n**     | --newdata-reduced | Define a geração de um dataset reduzido com as melhores caracteristicas | Não |
 
 ### Exemplos de uso das flags:
