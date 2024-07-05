@@ -21,7 +21,7 @@ Todas as dependências serão instaladas junto ao docker, sendo elas:
 ## 1. Pré-Configurações
 Antes de tudo, é necessário clonar este repositório
 ```
-  git clone https://github.com/felipehscherer/sf24-IWSHAP.git
+  git clone https://github.com/sf24-iwshap/sf24-iwshap
 ```
 
 Depois, entre no diretório clonado
