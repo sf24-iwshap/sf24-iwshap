@@ -1,0 +1,2768 @@
+Baseline: F1-Score=0.7945492662473794, Recall=0.851685393258427, Precision=0.7445972495088409
+Rodada: 0
+Features atuais: 
+ ['260_TQI_MIN']
+F1 Score: 0.5425, Recall: 0.48764044943820223, Precision: 0.6112676056338028, Tempo: 0.03909778594970703 segundos
+Nova melhor F1 Score: 0.5425
+ com features:
+ ['260_TQI_MIN']
+Rodada: 1
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT']
+F1 Score: 0.7775831873905429, Recall: 0.9977528089887641, Precision: 0.6370157819225251, Tempo: 0.03648233413696289 segundos
+Nova melhor F1 Score: 0.7775831873905429
+ com features:
+ ['260_TQI_MIN', '260_ENG_STAT']
+Rodada: 2
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '50C_CF_Clu_DTE']
+F1 Score: 0.7714285714285715, Recall: 0.9707865168539326, Precision: 0.64, Tempo: 0.040993452072143555 segundos
+Rodada: 3
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '5B0_CF_Clu_Odometer']
+F1 Score: 0.7416173570019724, Recall: 0.8449438202247191, Precision: 0.6608084358523726, Tempo: 0.05030679702758789 segundos
+Rodada: 4
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '081_CR_Ems_IndAirTemp']
+F1 Score: 0.7746478873239436, Recall: 0.9887640449438202, Precision: 0.6367583212735166, Tempo: 0.09358954429626465 segundos
+Rodada: 5
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '220_LAT_ACCEL']
+F1 Score: 0.7293666026871402, Recall: 0.8539325842696629, Precision: 0.6365159128978225, Tempo: 0.04709267616271973 segundos
+Rodada: 6
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '387_WHL_PUL_RL']
+F1 Score: 0.7113702623906706, Recall: 0.8224719101123595, Precision: 0.6267123287671232, Tempo: 0.06627321243286133 segundos
+Rodada: 7
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '111_CF_Tcu_Alive1']
+F1 Score: 0.7675194660734149, Recall: 0.7752808988764045, Precision: 0.7599118942731278, Tempo: 0.045064449310302734 segundos
+Rodada: 8
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '112_CF_Tcu_Alive']
+F1 Score: 0.7567567567567568, Recall: 0.755056179775281, Precision: 0.7584650112866818, Tempo: 0.07318592071533203 segundos
+Rodada: 9
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '387_WHL_PUL_FL']
+F1 Score: 0.72265625, Recall: 0.8314606741573034, Precision: 0.6390328151986183, Tempo: 0.0462188720703125 segundos
+Rodada: 10
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '387_WHL_PUL_Chksum']
+F1 Score: 0.6849593495934959, Recall: 0.7573033707865169, Precision: 0.6252319109461967, Tempo: 0.04836702346801758 segundos
+Rodada: 11
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '251_CF_Mdps_Chksum2']
+F1 Score: 0.7007007007007007, Recall: 0.7865168539325843, Precision: 0.631768953068592, Tempo: 0.06465721130371094 segundos
+Rodada: 12
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '387_WHL_PUL_FR']
+F1 Score: 0.6862944162436548, Recall: 0.7595505617977528, Precision: 0.6259259259259259, Tempo: 0.04480123519897461 segundos
+Rodada: 13
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '2B0_MsgCount']
+F1 Score: 0.7672253258845437, Recall: 0.9258426966292135, Precision: 0.6550079491255962, Tempo: 0.07388496398925781 segundos
+Rodada: 14
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '153_AliveCounter_TCS1']
+F1 Score: 0.7775831873905429, Recall: 0.9977528089887641, Precision: 0.6370157819225251, Tempo: 0.042653560638427734 segundos
+Rodada: 15
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '557_PID_23h']
+F1 Score: 0.7203140333660452, Recall: 0.8247191011235955, Precision: 0.6393728222996515, Tempo: 0.04981231689453125 segundos
+Rodada: 16
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '220_ESP12_Checksum']
+F1 Score: 0.768, Recall: 0.9707865168539326, Precision: 0.6352941176470588, Tempo: 0.042595863342285156 segundos
+Rodada: 17
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '387_WHL_PUL_RR']
+F1 Score: 0.6989351403678606, Recall: 0.8112359550561797, Precision: 0.6139455782312925, Tempo: 0.046201229095458984 segundos
+Rodada: 18
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '587_CF_Tmu_AliveCnt1']
+F1 Score: 0.7775831873905429, Recall: 0.9977528089887641, Precision: 0.6370157819225251, Tempo: 0.25608038902282715 segundos
+Rodada: 19
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '555_CR_Fpcm_LPActPre']
+F1 Score: 0.7760141093474426, Recall: 0.9887640449438202, Precision: 0.6386066763425254, Tempo: 0.046452999114990234 segundos
+Rodada: 20
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_ChkSum']
+F1 Score: 0.7656529516994633, Recall: 0.9617977528089887, Precision: 0.6359583952451708, Tempo: 0.04550957679748535 segundos
+Rodada: 21
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '2B0_CheckSum']
+F1 Score: 0.7647593097184378, Recall: 0.946067415730337, Precision: 0.6417682926829268, Tempo: 0.0508580207824707 segundos
+Rodada: 22
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '251_CF_Mdps_MsgCount2']
+F1 Score: 0.738581146744412, Recall: 0.8539325842696629, Precision: 0.6506849315068494, Tempo: 0.04517960548400879 segundos
+Rodada: 23
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '251_CR_Mdps_OutTq']
+F1 Score: 0.7612076852698993, Recall: 0.9348314606741573, Precision: 0.6419753086419753, Tempo: 0.04312467575073242 segundos
+Rodada: 24
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '381_CF_Mdps_Chksum']
+F1 Score: 0.6903553299492385, Recall: 0.7640449438202247, Precision: 0.6296296296296297, Tempo: 0.05287957191467285 segundos
+Rodada: 25
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_N']
+F1 Score: 0.7408123791102514, Recall: 0.8606741573033708, Precision: 0.6502546689303905, Tempo: 0.05922961235046387 segundos
+Rodada: 26
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '220_ESP12_AliveCounter']
+F1 Score: 0.7775831873905429, Recall: 0.9977528089887641, Precision: 0.6370157819225251, Tempo: 0.0433049201965332 segundos
+Rodada: 27
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '549_BAT_SNSR_I']
+F1 Score: 0.7645429362880887, Recall: 0.9303370786516854, Precision: 0.6489028213166145, Tempo: 0.04273247718811035 segundos
+Rodada: 28
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '329_MUL_CODE']
+F1 Score: 0.7775831873905429, Recall: 0.9977528089887641, Precision: 0.6370157819225251, Tempo: 0.03982257843017578 segundos
+Rodada: 29
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '162_Cluster_Engine_RPM']
+F1 Score: 0.7290260366441659, Recall: 0.849438202247191, Precision: 0.6385135135135135, Tempo: 0.05215764045715332 segundos
+Rodada: 30
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '386_WHL_SPD_RR']
+F1 Score: 0.7135678391959799, Recall: 0.797752808988764, Precision: 0.6454545454545455, Tempo: 0.052101850509643555 segundos
+Rodada: 31
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '492_CF_Ems_AliveCounterEMS9']
+F1 Score: 0.7775831873905429, Recall: 0.9977528089887641, Precision: 0.6370157819225251, Tempo: 0.04150533676147461 segundos
+Rodada: 32
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '50C_CF_Clu_AvgFCI']
+F1 Score: 0.7775831873905429, Recall: 0.9977528089887641, Precision: 0.6370157819225251, Tempo: 0.04697465896606445 segundos
+Rodada: 33
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '549_BAT_SNSR_V']
+F1 Score: 0.7562557924003707, Recall: 0.9168539325842696, Precision: 0.6435331230283912, Tempo: 0.042906999588012695 segundos
+Rodada: 34
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '556_PID_04h']
+F1 Score: 0.7311827956989247, Recall: 0.8404494382022472, Precision: 0.6470588235294118, Tempo: 0.049750328063964844 segundos
+Rodada: 35
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '4F1_CF_Clu_VanzDecimal']
+F1 Score: 0.7775831873905429, Recall: 0.9977528089887641, Precision: 0.6370157819225251, Tempo: 0.0545961856842041 segundos
+Rodada: 36
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '383_CF_Fatc_ChkSum']
+F1 Score: 0.7549549549549549, Recall: 0.9415730337078652, Precision: 0.6300751879699248, Tempo: 0.40548157691955566 segundos
+Rodada: 37
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '383_CF_Fatc_MsgCnt']
+F1 Score: 0.7714285714285715, Recall: 0.9707865168539326, Precision: 0.64, Tempo: 0.046600341796875 segundos
+Rodada: 38
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '381_CR_Mdps_StrAng']
+F1 Score: 0.7471910112359551, Recall: 0.8966292134831461, Precision: 0.6404494382022472, Tempo: 0.045633554458618164 segundos
+Rodada: 39
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '381_CF_Mdps_AliveCnt']
+F1 Score: 0.7389635316698656, Recall: 0.8651685393258427, Precision: 0.644891122278057, Tempo: 0.06984663009643555 segundos
+Rodada: 40
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '111_CF_Tcu_ChkSum1']
+F1 Score: 0.7653508771929824, Recall: 0.7842696629213484, Precision: 0.7473233404710921, Tempo: 0.0430450439453125 segundos
+Rodada: 41
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive']
+F1 Score: 0.7870036101083032, Recall: 0.9797752808988764, Precision: 0.6576168929110106, Tempo: 1.527045488357544 segundos
+Nova melhor F1 Score: 0.7870036101083032
+ com features:
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive']
+Rodada: 42
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '2B0_SAS_Angle']
+F1 Score: 0.7290836653386454, Recall: 0.8224719101123595, Precision: 0.6547406082289803, Tempo: 0.06097817420959473 segundos
+Rodada: 43
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '50C_CF_Clu_AliveCnt2']
+F1 Score: 0.7621832358674464, Recall: 0.8786516853932584, Precision: 0.6729776247848537, Tempo: 0.06859993934631348 segundos
+Rodada: 44
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '113_CF_Tcu_ChkSum3']
+F1 Score: 0.728744939271255, Recall: 0.8089887640449438, Precision: 0.6629834254143646, Tempo: 0.07218575477600098 segundos
+Rodada: 45
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '220_YAW_RATE']
+F1 Score: 0.7067067067067067, Recall: 0.7932584269662921, Precision: 0.6371841155234657, Tempo: 0.05622506141662598 segundos
+Rodada: 46
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '164_CF_Esc_Chksum']
+F1 Score: 0.7843511450381679, Recall: 0.9235955056179775, Precision: 0.681592039800995, Tempo: 0.05974984169006348 segundos
+Rodada: 47
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '329_TEMP_ENG']
+F1 Score: 0.7532956685499058, Recall: 0.898876404494382, Precision: 0.6482982171799028, Tempo: 0.060552120208740234 segundos
+Rodada: 48
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '251_CR_Mdps_StrTq']
+F1 Score: 0.7303822937625755, Recall: 0.8157303370786517, Precision: 0.6612021857923497, Tempo: 0.05038714408874512 segundos
+Rodada: 49
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '47F_ROL_CNT_ESP']
+F1 Score: 0.7245804540967423, Recall: 0.8247191011235955, Precision: 0.6461267605633803, Tempo: 0.05424976348876953 segundos
+Rodada: 50
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '220_LONG_ACCEL']
+F1 Score: 0.7063655030800822, Recall: 0.7730337078651686, Precision: 0.6502835538752363, Tempo: 0.05456233024597168 segundos
+Rodada: 51
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '545_TEMP_FUEL']
+F1 Score: 0.76937441643324, Recall: 0.9258426966292135, Precision: 0.65814696485623, Tempo: 0.06177926063537598 segundos
+Rodada: 52
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '557_PID_0Bh']
+F1 Score: 0.7256461232604374, Recall: 0.8202247191011236, Precision: 0.6506238859180036, Tempo: 0.14044427871704102 segundos
+Rodada: 53
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.5161631107330322 segundos
+Nova melhor F1 Score: 0.7873873873873873
+ com features:
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB']
+Rodada: 54
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '556_PID_0Ch']
+F1 Score: 0.7068437180796732, Recall: 0.7775280898876404, Precision: 0.6479400749063671, Tempo: 0.06044793128967285 segundos
+Rodada: 55
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '081_CF_Ems_ChkSum2']
+F1 Score: 0.7104722792607803, Recall: 0.7775280898876404, Precision: 0.6540642722117203, Tempo: 0.05567598342895508 segundos
+Rodada: 56
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '556_PID_11h']
+F1 Score: 0.7298105682951147, Recall: 0.8224719101123595, Precision: 0.6559139784946236, Tempo: 0.05788826942443848 segundos
+Rodada: 57
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '081_CF_Ems_Alive2']
+F1 Score: 0.7866786678667866, Recall: 0.9820224719101124, Precision: 0.6561561561561562, Tempo: 0.08208584785461426 segundos
+Rodada: 58
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '260_AliveCounter']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05711531639099121 segundos
+Rodada: 59
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '547_IntAirTemp']
+F1 Score: 0.72, Recall: 0.7887640449438202, Precision: 0.6622641509433962, Tempo: 0.05571389198303223 segundos
+Rodada: 60
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_SLOPE_TCU']
+F1 Score: 0.7350928641251222, Recall: 0.8449438202247191, Precision: 0.6505190311418685, Tempo: 0.06748414039611816 segundos
+Rodada: 61
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_R_PAcnC']
+F1 Score: 0.7361111111111112, Recall: 0.8337078651685393, Precision: 0.6589698046181173, Tempo: 0.060988426208496094 segundos
+Rodada: 62
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '164_CF_Esc_AliveCnt']
+F1 Score: 0.7708947885939036, Recall: 0.8808988764044944, Precision: 0.6853146853146853, Tempo: 0.06596899032592773 segundos
+Rodada: 63
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '386_WHL_SPD_FR']
+F1 Score: 0.7150050352467271, Recall: 0.797752808988764, Precision: 0.6478102189781022, Tempo: 0.06910204887390137 segundos
+Rodada: 64
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '4F1_CF_Clu_AliveCnt1']
+F1 Score: 0.7452547452547452, Recall: 0.8382022471910112, Precision: 0.670863309352518, Tempo: 0.05489993095397949 segundos
+Rodada: 65
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '316_N']
+F1 Score: 0.7138461538461538, Recall: 0.7820224719101123, Precision: 0.6566037735849056, Tempo: 0.05420088768005371 segundos
+Rodada: 66
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '200_FCO']
+F1 Score: 0.7036290322580645, Recall: 0.7842696629213484, Precision: 0.6380255941499086, Tempo: 0.058511972427368164 segundos
+Rodada: 67
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CF_Tcu_Alive3']
+F1 Score: 0.7720364741641338, Recall: 0.8561797752808988, Precision: 0.7029520295202952, Tempo: 0.05154132843017578 segundos
+Rodada: 68
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '080_TQI_ACOR']
+F1 Score: 0.7259858442871587, Recall: 0.8067415730337079, Precision: 0.6599264705882353, Tempo: 0.047022342681884766 segundos
+Rodada: 69
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '386_WHL_SPD_AliveCounter_MSB']
+F1 Score: 0.7777777777777778, Recall: 0.9438202247191011, Precision: 0.6614173228346457, Tempo: 0.05026817321777344 segundos
+Rodada: 70
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '112_VS_TCU_DECIMAL']
+F1 Score: 0.7191919191919192, Recall: 0.8, Precision: 0.653211009174312, Tempo: 0.053031206130981445 segundos
+Rodada: 71
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '556_PID_05h']
+F1 Score: 0.747104247104247, Recall: 0.8696629213483146, Precision: 0.6548223350253807, Tempo: 0.05154109001159668 segundos
+Rodada: 72
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5A0_CF_Acu_Dtc']
+F1 Score: 0.7640449438202247, Recall: 0.9168539325842696, Precision: 0.6548956661316212, Tempo: 0.05612683296203613 segundos
+Rodada: 73
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '386_WHL_SPD_RL']
+F1 Score: 0.6852425180598555, Recall: 0.7460674157303371, Precision: 0.6335877862595419, Tempo: 0.051294565200805664 segundos
+Rodada: 74
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '386_WHL_SPD_AliveCounter_LSB']
+F1 Score: 0.7585551330798479, Recall: 0.8966292134831461, Precision: 0.657331136738056, Tempo: 0.05537056922912598 segundos
+Rodada: 75
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_PV_AV_CAN']
+F1 Score: 0.7341772151898734, Recall: 0.8471910112359551, Precision: 0.647766323024055, Tempo: 0.05138587951660156 segundos
+Rodada: 76
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '316_TQI_ACOR']
+F1 Score: 0.728184553660983, Recall: 0.8157303370786517, Precision: 0.657608695652174, Tempo: 0.06736087799072266 segundos
+Rodada: 77
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '386_WHL_SPD_FL']
+F1 Score: 0.711340206185567, Recall: 0.7752808988764045, Precision: 0.6571428571428571, Tempo: 0.06280136108398438 segundos
+Rodada: 78
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '220_CYL_PRES']
+F1 Score: 0.7693761814744802, Recall: 0.9146067415730337, Precision: 0.6639477977161501, Tempo: 0.05431222915649414 segundos
+Rodada: 79
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '4F1_CF_Clu_ParityBit1']
+F1 Score: 0.7689463955637708, Recall: 0.9348314606741573, Precision: 0.6530612244897959, Tempo: 0.05173182487487793 segundos
+Rodada: 80
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '081_BRAKE_ACT']
+F1 Score: 0.7794117647058824, Recall: 0.952808988764045, Precision: 0.6594090202177294, Tempo: 0.049924612045288086 segundos
+Rodada: 81
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CF_Tcu_TarGr']
+F1 Score: 0.7542288557213931, Recall: 0.851685393258427, Precision: 0.6767857142857143, Tempo: 0.05315899848937988 segundos
+Rodada: 82
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '080_PV_AV_CAN']
+F1 Score: 0.7426900584795322, Recall: 0.8561797752808988, Precision: 0.6557659208261618, Tempo: 0.05120348930358887 segundos
+Rodada: 83
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_MAF_FAC_ALTI_MMV']
+F1 Score: 0.7676190476190476, Recall: 0.9056179775280899, Precision: 0.6661157024793388, Tempo: 0.060584306716918945 segundos
+Rodada: 84
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '4F1_CF_Clu_Vanz']
+F1 Score: 0.7154471544715447, Recall: 0.7910112359550562, Precision: 0.6530612244897959, Tempo: 0.05829215049743652 segundos
+Rodada: 85
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '386_WHL_SPD_Checksum_MSB']
+F1 Score: 0.7454370797310279, Recall: 0.8719101123595505, Precision: 0.6510067114093959, Tempo: 0.055708885192871094 segundos
+Rodada: 86
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '112_CF_Tcu_ChkSum']
+F1 Score: 0.7337278106508875, Recall: 0.8359550561797753, Precision: 0.6537785588752196, Tempo: 0.06097579002380371 segundos
+Rodada: 87
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '162_Clutch_Driving_Tq']
+F1 Score: 0.7829383886255924, Recall: 0.9280898876404494, Precision: 0.6770491803278689, Tempo: 0.0471646785736084 segundos
+Rodada: 88
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '492_CF_Ems_ChecksumEMS9']
+F1 Score: 0.7390029325513197, Recall: 0.849438202247191, Precision: 0.6539792387543253, Tempo: 0.06331348419189453 segundos
+Rodada: 89
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '044_CF_Datc_IncarTemp']
+F1 Score: 0.744721689059501, Recall: 0.8719101123595505, Precision: 0.6499162479061976, Tempo: 0.06434869766235352 segundos
+Rodada: 90
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_HeadLampLow']
+F1 Score: 0.7769652650822669, Recall: 0.9550561797752809, Precision: 0.6548536209553159, Tempo: 0.06750845909118652 segundos
+Rodada: 91
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '080_TQI']
+F1 Score: 0.7123848515864892, Recall: 0.7820224719101123, Precision: 0.6541353383458647, Tempo: 0.09879207611083984 segundos
+Rodada: 92
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_TQI_B']
+F1 Score: 0.710204081632653, Recall: 0.7820224719101123, Precision: 0.6504672897196262, Tempo: 0.05779409408569336 segundos
+Rodada: 93
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_CLU_ACK']
+F1 Score: 0.7749077490774908, Recall: 0.9438202247191011, Precision: 0.6572769953051644, Tempo: 0.06890320777893066 segundos
+Rodada: 94
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CR_Fatc_OutTemp']
+F1 Score: 0.7545717035611165, Recall: 0.8808988764044944, Precision: 0.6599326599326599, Tempo: 0.10740852355957031 segundos
+Rodada: 95
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '593_PRESSURE_RR']
+F1 Score: 0.7645429362880887, Recall: 0.9303370786516854, Precision: 0.6489028213166145, Tempo: 0.06262969970703125 segundos
+Rodada: 96
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '316_TQI']
+F1 Score: 0.7164480322906155, Recall: 0.797752808988764, Precision: 0.6501831501831502, Tempo: 0.0588071346282959 segundos
+Rodada: 97
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '316_TQFR']
+F1 Score: 0.7388414055080722, Recall: 0.8741573033707866, Precision: 0.6398026315789473, Tempo: 0.06136274337768555 segundos
+Rodada: 98
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '112_N_INC_TCU']
+F1 Score: 0.7809349220898258, Recall: 0.9573033707865168, Precision: 0.6594427244582043, Tempo: 0.051424503326416016 segundos
+Rodada: 99
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_TPS']
+F1 Score: 0.745136186770428, Recall: 0.8606741573033708, Precision: 0.6569468267581475, Tempo: 0.050295114517211914 segundos
+Rodada: 100
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '044_CR_Datc_OutTempC']
+F1 Score: 0.7516908212560387, Recall: 0.8741573033707866, Precision: 0.6593220338983051, Tempo: 0.05537009239196777 segundos
+Rodada: 101
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '260_Checksum']
+F1 Score: 0.7821330902461258, Recall: 0.9640449438202248, Precision: 0.6579754601226994, Tempo: 0.05425882339477539 segundos
+Rodada: 102
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '545_BAT_Alt_FR_Duty']
+F1 Score: 0.7480769230769231, Recall: 0.8741573033707866, Precision: 0.653781512605042, Tempo: 0.0637059211730957 segundos
+Rodada: 103
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_Lca_IndBriRight']
+F1 Score: 0.7757352941176471, Recall: 0.9483146067415731, Precision: 0.656298600311042, Tempo: 0.054497718811035156 segundos
+Rodada: 104
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '112_VS_TCU']
+F1 Score: 0.6876971608832808, Recall: 0.7348314606741573, Precision: 0.6462450592885376, Tempo: 0.06306219100952148 segundos
+Rodada: 105
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '111_SWI_CC']
+F1 Score: 0.7679245283018868, Recall: 0.9146067415730337, Precision: 0.6617886178861788, Tempo: 0.07415914535522461 segundos
+Rodada: 106
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '111_SWI_GS']
+F1 Score: 0.7720588235294118, Recall: 0.9438202247191011, Precision: 0.6531881804043546, Tempo: 0.06808090209960938 segundos
+Rodada: 107
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '080_TQFR']
+F1 Score: 0.7438330170777988, Recall: 0.8808988764044944, Precision: 0.6436781609195402, Tempo: 0.05918574333190918 segundos
+Rodada: 108
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '4F1_CF_Clu_DetentOut']
+F1 Score: 0.765639589169001, Recall: 0.9213483146067416, Precision: 0.6549520766773163, Tempo: 0.06167435646057129 segundos
+Rodada: 109
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CR_Fatc_OutTempSns']
+F1 Score: 0.761012183692596, Recall: 0.9123595505617977, Precision: 0.6527331189710611, Tempo: 0.06797099113464355 segundos
+Rodada: 110
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '260_TQI']
+F1 Score: 0.781021897810219, Recall: 0.9617977528089887, Precision: 0.6574500768049155, Tempo: 0.05689096450805664 segundos
+Rodada: 111
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_TurnSigLh']
+F1 Score: 0.7741935483870968, Recall: 0.9438202247191011, Precision: 0.65625, Tempo: 0.05580782890319824 segundos
+Rodada: 112
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_R_NEngIdlTgC']
+F1 Score: 0.7579143389199255, Recall: 0.9146067415730337, Precision: 0.6470588235294118, Tempo: 0.1074528694152832 segundos
+Rodada: 113
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_Lca_IndLeft']
+F1 Score: 0.7783882783882784, Recall: 0.9550561797752809, Precision: 0.6568778979907264, Tempo: 0.07010126113891602 segundos
+Rodada: 114
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '545_VB']
+F1 Score: 0.7784867821330902, Recall: 0.9595505617977528, Precision: 0.6549079754601227, Tempo: 0.07457804679870605 segundos
+Rodada: 115
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '316_VS']
+F1 Score: 0.6962809917355371, Recall: 0.7573033707865169, Precision: 0.6443594646271511, Tempo: 0.14833927154541016 segundos
+Rodada: 116
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '593_PRESSURE_RL']
+F1 Score: 0.7657992565055762, Recall: 0.9258426966292135, Precision: 0.652931854199683, Tempo: 0.3172168731689453 segundos
+Rodada: 117
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '593_STATUS_TPMS']
+F1 Score: 0.778584392014519, Recall: 0.9640449438202248, Precision: 0.6529680365296804, Tempo: 0.08387374877929688 segundos
+Rodada: 118
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '111_TQI_TCU']
+F1 Score: 0.7859712230215827, Recall: 0.9820224719101124, Precision: 0.6551724137931034, Tempo: 0.07140588760375977 segundos
+Rodada: 119
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_Lca_IndRight']
+F1 Score: 0.7779816513761468, Recall: 0.952808988764045, Precision: 0.6573643410852713, Tempo: 0.10144877433776855 segundos
+Rodada: 120
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '2B0_SAS_Speed']
+F1 Score: 0.7686567164179104, Recall: 0.9258426966292135, Precision: 0.6570972886762361, Tempo: 0.05651116371154785 segundos
+Rodada: 121
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '260_TQI_TARGET']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06209206581115723 segundos
+Rodada: 122
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_AutoLightValue']
+F1 Score: 0.7800369685767098, Recall: 0.9483146067415731, Precision: 0.6624803767660911, Tempo: 0.12056827545166016 segundos
+Rodada: 123
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_ParkBrakeSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0718998908996582 segundos
+Rodada: 124
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '502_CF_Tcu_StRelStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07048678398132324 segundos
+Rodada: 125
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_ALightStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0634603500366211 segundos
+Rodada: 126
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_DefoggerRly']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0739297866821289 segundos
+Rodada: 127
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5C0_Pas_Spkr_Rrh_Alarm']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06074166297912598 segundos
+Rodada: 128
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '545_AMP_CAN']
+F1 Score: 0.7676190476190476, Recall: 0.9056179775280899, Precision: 0.6661157024793388, Tempo: 0.06467103958129883 segundos
+Rodada: 129
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '502_CF_Tcu_DriWarn2']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06315851211547852 segundos
+Rodada: 130
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '502_CF_Tcu_DriWarn1']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06148099899291992 segundos
+Rodada: 131
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_AstDrSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06842589378356934 segundos
+Rodada: 132
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_HazardSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.054560184478759766 segundos
+Rodada: 133
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_HeadLampHigh']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06725120544433594 segundos
+Rodada: 134
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '507_TCS_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06070089340209961 segundos
+Rodada: 135
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '507_DBC_W_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07199668884277344 segundos
+Rodada: 136
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_RainSnsState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05786013603210449 segundos
+Rodada: 137
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '507_ABS_W_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.058473825454711914 segundos
+Rodada: 138
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5D3_HU_VRActivity']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.054166316986083984 segundos
+Rodada: 139
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '502_CF_Tcu_GSel_BlinkReq']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06242728233337402 segundos
+Rodada: 140
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '545_EMS_VS']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.10560107231140137 segundos
+Rodada: 141
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5FA_CF_Ods_OccStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06652522087097168 segundos
+Rodada: 142
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '507_DBC_F_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05765128135681152 segundos
+Rodada: 143
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '507_ESC_Off_Step']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08067727088928223 segundos
+Rodada: 144
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '507_AVH_CLU']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.059058427810668945 segundos
+Rodada: 145
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '507_AVH_I_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07781553268432617 segundos
+Rodada: 146
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '507_EBD_W_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.061829328536987305 segundos
+Rodada: 147
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '502_CF_TCU_WarnSnd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.052276611328125 segundos
+Rodada: 148
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_LightSwState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06315946578979492 segundos
+Rodada: 149
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_Frt_Fog_Act']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.055314064025878906 segundos
+Rodada: 150
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_TurnSigRh']
+F1 Score: 0.7817351598173516, Recall: 0.9617977528089887, Precision: 0.6584615384615384, Tempo: 0.05002570152282715 segundos
+Rodada: 151
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5C0_Pas_Spkr_Rcnt_Alarm']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0731661319732666 segundos
+Rodada: 152
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5FA_CR_Wcs_ErrStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.1305093765258789 segundos
+Rodada: 153
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_Ign2']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.11073565483093262 segundos
+Rodada: 154
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '507_TCS_OFF_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.1190340518951416 segundos
+Rodada: 155
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_Ign1']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07013273239135742 segundos
+Rodada: 156
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_C_SunRoofOpenState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07953143119812012 segundos
+Rodada: 157
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_RainSnsOption']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06030464172363281 segundos
+Rodada: 158
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_InhibitRMT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.059632301330566406 segundos
+Rodada: 159
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_HLpHighSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05473637580871582 segundos
+Rodada: 160
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '545_IMMO_LAMP_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06311249732971191 segundos
+Rodada: 161
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5C0_Pas_Spkr_Frh_Alarm']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06893348693847656 segundos
+Rodada: 162
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5C0_Pas_Spkr_Rlh_Alarm']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05069923400878906 segundos
+Rodada: 163
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '545_L_MIL']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06815171241760254 segundos
+Rodada: 164
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_TSigRHSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.1000211238861084 segundos
+Rodada: 165
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_HBAControlMode']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07872962951660156 segundos
+Rodada: 166
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_PassingSW']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08947157859802246 segundos
+Rodada: 167
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '507_AVH_ALARM']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0887296199798584 segundos
+Rodada: 168
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '545_IM_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08265972137451172 segundos
+Rodada: 169
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_RrSunRoofOpenState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06719207763671875 segundos
+Rodada: 170
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_PassiveAccessUnlock']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0604863166809082 segundos
+Rodada: 171
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_WiperMistSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05749106407165527 segundos
+Rodada: 172
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_PassiveAccessLock']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07148027420043945 segundos
+Rodada: 173
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_StarterRlyState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07043623924255371 segundos
+Rodada: 174
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_DriveTypeOption']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.059668779373168945 segundos
+Rodada: 175
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_TSigLHSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06132841110229492 segundos
+Rodada: 176
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '50C_CF_Clu_TripUnit']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05213356018066406 segundos
+Rodada: 177
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5FA_CF_Ods_PrcCmd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05670332908630371 segundos
+Rodada: 178
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5D3_HU_PhoneActivity']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0736989974975586 segundos
+Rodada: 179
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '50C_CF_Clu_FuelDispLvl']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05716514587402344 segundos
+Rodada: 180
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5FA_CF_Ods_WgtStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.054199934005737305 segundos
+Rodada: 181
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_InhibitD']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07367229461669922 segundos
+Rodada: 182
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_InhibitN']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06694340705871582 segundos
+Rodada: 183
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_InhibitR']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07206225395202637 segundos
+Rodada: 184
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_InhibitP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05410361289978027 segundos
+Rodada: 185
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_VehicleSpeed']
+F1 Score: 0.6882168925964547, Recall: 0.7415730337078652, Precision: 0.642023346303502, Tempo: 0.06022810935974121 segundos
+Rodada: 186
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '522_C_SMKTeleCrankingFailRes']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0650932788848877 segundos
+Rodada: 187
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '50C_CF_Clu_DrivingModeSwi']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05658698081970215 segundos
+Rodada: 188
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '522_C_SMKTeleCrankingState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.051712751388549805 segundos
+Rodada: 189
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '522_RearSW_RSELockOnOff']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.052834272384643555 segundos
+Rodada: 190
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '522_C_TailLampActivity']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05327796936035156 segundos
+Rodada: 191
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '522_C_CountryCfg']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05012917518615723 segundos
+Rodada: 192
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '522_C_IGNSW']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05957651138305664 segundos
+Rodada: 193
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '522_C_BAState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07440829277038574 segundos
+Rodada: 194
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '522_C_RKECMD']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05564761161804199 segundos
+Rodada: 195
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_HudInfoSet']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07018899917602539 segundos
+Rodada: 196
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '522_C_ParkingBrakeSW']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06414198875427246 segundos
+Rodada: 197
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '522_C_AV_Tail']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05810213088989258 segundos
+Rodada: 198
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '520_C_MirOutTempSns']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05731916427612305 segundos
+Rodada: 199
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '520_CF_Hoodsw_memory']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.058011770248413086 segundos
+Rodada: 200
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '520_CR_Photosensor_RH']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09430456161499023 segundos
+Rodada: 201
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '520_CR_Photosensor_LH']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09055376052856445 segundos
+Rodada: 202
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5FA_CF_Ods_PsFail']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07721948623657227 segundos
+Rodada: 203
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '50C_CF_Clu_AltLStatus']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06668353080749512 segundos
+Rodada: 204
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '50C_CF_Clu_FlexSteerSW']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0543520450592041 segundos
+Rodada: 205
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '50C_CF_Clu_LdwsLkasSW']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.17650604248046875 segundos
+Rodada: 206
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '50C_CF_Clu_IsaMainSW']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0587766170501709 segundos
+Rodada: 207
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '50C_CF_Clu_EcoDriveInf']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06276774406433105 segundos
+Rodada: 208
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '50C_CF_Clu_ActiveEcoSW']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.054285287857055664 segundos
+Rodada: 209
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5FA_CF_Ods_EcuFail']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05311775207519531 segundos
+Rodada: 210
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '50C_CF_Clu_AvsmCur']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.053449392318725586 segundos
+Rodada: 211
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_HudFontColorSet']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05262351036071777 segundos
+Rodada: 212
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5D3_BlowerNoiseControl']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06064414978027344 segundos
+Rodada: 213
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_TrunkTgSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.054749250411987305 segundos
+Rodada: 214
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '50C_CF_Clu_SWL_Stat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06112074851989746 segundos
+Rodada: 215
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5FA_CF_Ods_BtsFail']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06240344047546387 segundos
+Rodada: 216
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5FA_CF_Ods_AcuRcvSN']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.059638261795043945 segundos
+Rodada: 217
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_WiperAutoSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06440615653991699 segundos
+Rodada: 218
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_WiperHighSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.11349821090698242 segundos
+Rodada: 219
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_WiperLowSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.12485003471374512 segundos
+Rodada: 220
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_WiperIntSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0728609561920166 segundos
+Rodada: 221
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5FA_CF_Ods_EolCal']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05918145179748535 segundos
+Rodada: 222
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_WiperIntT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05858874320983887 segundos
+Rodada: 223
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_HoodSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05443549156188965 segundos
+Rodada: 224
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '507_AVH_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0594940185546875 segundos
+Rodada: 225
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '50C_CF_Clu_LowfuelWarn']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06812047958374023 segundos
+Rodada: 226
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_SMKOption']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06671261787414551 segundos
+Rodada: 227
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_AstSeatBeltSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.057851552963256836 segundos
+Rodada: 228
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_DrvSeatBeltSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.056516408920288086 segundos
+Rodada: 229
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_HudBrightUpSW']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06751728057861328 segundos
+Rodada: 230
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_DrvDrSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06870532035827637 segundos
+Rodada: 231
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_DrvKeyUnlockSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06862711906433105 segundos
+Rodada: 232
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_DrvKeyLockSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07078766822814941 segundos
+Rodada: 233
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '50C_CF_Clu_RefDetMod']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05340743064880371 segundos
+Rodada: 234
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_RKECmd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05557608604431152 segundos
+Rodada: 235
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '541_CF_Gway_IGNSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05493521690368652 segundos
+Rodada: 236
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '547_ECGPOvrd']
+F1 Score: 0.7682242990654206, Recall: 0.9235955056179775, Precision: 0.6576, Tempo: 0.06419825553894043 segundos
+Rodada: 237
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_LanguageInfo']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.055660247802734375 segundos
+Rodada: 238
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '50C_CF_Clu_AvgFCU']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.059935808181762695 segundos
+Rodada: 239
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_HudFontSizeSet']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06075143814086914 segundos
+Rodada: 240
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_HudSet']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.053969621658325195 segundos
+Rodada: 241
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_HudHeightDnSW']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.054047346115112305 segundos
+Rodada: 242
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_HudHeightUpSW']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05901670455932617 segundos
+Rodada: 243
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_HudBrightDnSW']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.050307273864746094 segundos
+Rodada: 244
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '52A_CF_Clu_ClusterSound']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0519716739654541 segundos
+Rodada: 245
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_SndWarnForClu']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0574338436126709 segundos
+Rodada: 246
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '547_QECACC']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05562996864318848 segundos
+Rodada: 247
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_KeyoutLp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06296658515930176 segundos
+Rodada: 248
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_MemoryP2Cmd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07187533378601074 segundos
+Rodada: 249
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_PBackP1Cmd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.057866573333740234 segundos
+Rodada: 250
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_PBackP2Cmd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07007765769958496 segundos
+Rodada: 251
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '593_PRESSURE_FL']
+F1 Score: 0.7781818181818182, Recall: 0.9617977528089887, Precision: 0.6534351145038167, Tempo: 0.06112051010131836 segundos
+Rodada: 252
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_StrgWhlHeatedState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06820893287658691 segundos
+Rodada: 253
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_PBackStopCmd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05424833297729492 segundos
+Rodada: 254
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_StaticBendLhAct']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05606436729431152 segundos
+Rodada: 255
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_StaticBendRhAct']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05443286895751953 segundos
+Rodada: 256
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_DrvWdwStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06502890586853027 segundos
+Rodada: 257
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_RLWdwState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05711984634399414 segundos
+Rodada: 258
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_RRWdwState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06352424621582031 segundos
+Rodada: 259
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_AstWdwStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.055078744888305664 segundos
+Rodada: 260
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_MemoryEnable']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.052651405334472656 segundos
+Rodada: 261
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_PBACKStopCmd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05346560478210449 segundos
+Rodada: 262
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_PBACKStop']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06496477127075195 segundos
+Rodada: 263
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_MemoryP1Cmd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06490707397460938 segundos
+Rodada: 264
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '593_PRESSURE_FR']
+F1 Score: 0.778584392014519, Recall: 0.9640449438202248, Precision: 0.6529680365296804, Tempo: 0.05321192741394043 segundos
+Rodada: 265
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '557_PID_09h']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.059542179107666016 segundos
+Rodada: 266
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '555_CF_Fpcm_LPPumpDiscShort']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05611133575439453 segundos
+Rodada: 267
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_SMKDispWarn']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05823969841003418 segundos
+Rodada: 268
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_WngBuz']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05532693862915039 segundos
+Rodada: 269
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '555_CF_Fpcm_LPPumpOverCur']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07435297966003418 segundos
+Rodada: 270
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '555_CF_Fpcm_PreSnrHi']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.060445308685302734 segundos
+Rodada: 271
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '555_CF_Fpcm_PreSnrDisc']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05417490005493164 segundos
+Rodada: 272
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '555_CF_Fpcm_PreSnrShort']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05523681640625 segundos
+Rodada: 273
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '555_CF_Fpcm_LP_System_Error']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05715680122375488 segundos
+Rodada: 274
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '557_PID_08h']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.059258222579956055 segundos
+Rodada: 275
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '555_CF_Fpcm_PreSnrSigErr']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05620408058166504 segundos
+Rodada: 276
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '555_CF_Fpcm_LPCtrCirFlt']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05074048042297363 segundos
+Rodada: 277
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '556_PID_0Dh']
+F1 Score: 0.691358024691358, Recall: 0.755056179775281, Precision: 0.6375711574952562, Tempo: 0.06263613700866699 segundos
+Rodada: 278
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '556_PID_03h']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.058858633041381836 segundos
+Rodada: 279
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '557_PID_06h']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06843066215515137 segundos
+Rodada: 280
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '557_PID_07h']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05853271484375 segundos
+Rodada: 281
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_IMSBuzzer']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0516965389251709 segundos
+Rodada: 282
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_DrvSeatBeltInd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05800127983093262 segundos
+Rodada: 283
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_AstSeatBeltInd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0523226261138916 segundos
+Rodada: 284
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_FR_SndWan']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.051744699478149414 segundos
+Rodada: 285
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '593_POS_FL_W_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06530618667602539 segundos
+Rodada: 286
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '593_TREAD_W_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05995988845825195 segundos
+Rodada: 287
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '593_TPMS_W_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.054366111755371094 segundos
+Rodada: 288
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_Rcw_Stat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06099271774291992 segundos
+Rodada: 289
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_RCW_Warning']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.060098886489868164 segundos
+Rodada: 290
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_Lca_SndWan_Stat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0644690990447998 segundos
+Rodada: 291
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_FL_SndWan']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05698990821838379 segundos
+Rodada: 292
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '593_POS_FR_W_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06384158134460449 segundos
+Rodada: 293
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_RR_SndWan']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0779576301574707 segundos
+Rodada: 294
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_RL_SndWan']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06368732452392578 segundos
+Rodada: 295
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_Lca_IndBriLeft']
+F1 Score: 0.7783882783882784, Recall: 0.9550561797752809, Precision: 0.6568778979907264, Tempo: 0.05571460723876953 segundos
+Rodada: 296
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_RCTA_IndBriLeft']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.057213783264160156 segundos
+Rodada: 297
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_RCTA_IndBriRight']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08586907386779785 segundos
+Rodada: 298
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_RCTA_IndLeft']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07564830780029297 segundos
+Rodada: 299
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_Rcta_Stat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08504891395568848 segundos
+Rodada: 300
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_Lca_Stat']
+F1 Score: 0.7613741875580315, Recall: 0.9213483146067416, Precision: 0.6487341772151899, Tempo: 0.058080196380615234 segundos
+Rodada: 301
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_RCSeatBeltInd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.058904170989990234 segundos
+Rodada: 302
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '587_CF_Tmu_VehSld']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.062499284744262695 segundos
+Rodada: 303
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_RLSeatBeltInd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05679130554199219 segundos
+Rodada: 304
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_RRSeatBeltInd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06464242935180664 segundos
+Rodada: 305
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_RrWiperHighSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.18082809448242188 segundos
+Rodada: 306
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '559_CF_Gway_RrWiperLowSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06081557273864746 segundos
+Rodada: 307
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '593_UNIT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06001138687133789 segundos
+Rodada: 308
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '57F_HU_Type']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06294989585876465 segundos
+Rodada: 309
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '593_POS_RR_W_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06362223625183105 segundos
+Rodada: 310
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '593_POS_RL_W_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.12981724739074707 segundos
+Rodada: 311
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '587_CF_Tmu_VehImmo']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.2557952404022217 segundos
+Rodada: 312
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '587_CF_Tmu_ReqRepCnd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06577825546264648 segundos
+Rodada: 313
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '587_CF_Tmu_AirconCtr']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07177257537841797 segundos
+Rodada: 314
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '587_CF_Tmu_TempMd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07672262191772461 segundos
+Rodada: 315
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '587_CF_Tmu_TempSet']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06287741661071777 segundos
+Rodada: 316
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '587_CF_Tmu_DefrostCtr']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.053312063217163086 segundos
+Rodada: 317
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5A0_CF_Ods_SNRcv']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06565117835998535 segundos
+Rodada: 318
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_SJBDeliveryMode']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0609440803527832 segundos
+Rodada: 319
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '547_ECFail']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05996298789978027 segundos
+Rodada: 320
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_AutoLightOption']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05843496322631836 segundos
+Rodada: 321
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5A0_CF_SWL_Ind']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08713960647583008 segundos
+Rodada: 322
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '549_BAT_SOH']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08627653121948242 segundos
+Rodada: 323
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '549_BAT_SNSR_Invalid']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06626725196838379 segundos
+Rodada: 324
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '549_BAT_SOF']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07648777961730957 segundos
+Rodada: 325
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '549_BAT_SNSR_Error']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.41801023483276367 segundos
+Rodada: 326
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5A0_CF_DriBkl_Stat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06690764427185059 segundos
+Rodada: 327
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5A0_CF_PasBkl_Stat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07285475730895996 segundos
+Rodada: 328
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5A0_CF_DriBkl_FltStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.10115575790405273 segundos
+Rodada: 329
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '54C_Vehicle_Stop_Time']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07154631614685059 segundos
+Rodada: 330
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5A0_CF_PasBkl_FltStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08079314231872559 segundos
+Rodada: 331
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5A0_CF_Abg_DepEnt']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09124970436096191 segundos
+Rodada: 332
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '54C_HILL_HOLD_WARNING']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07618474960327148 segundos
+Rodada: 333
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_GwayDiagState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0528566837310791 segundos
+Rodada: 334
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_DDMDiagState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07801675796508789 segundos
+Rodada: 335
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_SCMDiagState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08071351051330566 segundos
+Rodada: 336
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '549_BAT_SNSR_State']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07978105545043945 segundos
+Rodada: 337
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '549_BAT_SNSR_Temp']
+F1 Score: 0.7533718689788054, Recall: 0.8786516853932584, Precision: 0.6593591905564924, Tempo: 0.06711435317993164 segundos
+Rodada: 338
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5A0_CF_Acu_FltStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0626835823059082 segundos
+Rodada: 339
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '547_STATE_DC_OBD']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.059728384017944336 segundos
+Rodada: 340
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5C0_Pas_Spkr_Fcnt_Alarm']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.052464962005615234 segundos
+Rodada: 341
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5C0_Pas_Spkr_Flh_Alarm']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.059026479721069336 segundos
+Rodada: 342
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '547_SwitchOffCondExt']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07052445411682129 segundos
+Rodada: 343
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '547_BLECFail']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0563502311706543 segundos
+Rodada: 344
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '547_CF_Ems_IsaAct']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06713557243347168 segundos
+Rodada: 345
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '547_FA_PV_CAN']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05786418914794922 segundos
+Rodada: 346
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '547_INH_DC_OBD']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05462789535522461 segundos
+Rodada: 347
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '549_BAT_SOC']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.051400184631347656 segundos
+Rodada: 348
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '547_CTR_IG_CYC_OBD']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0644845962524414 segundos
+Rodada: 349
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5C0_Audio_VolumeDown']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07703638076782227 segundos
+Rodada: 350
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5A0_CF_Acu_NumOfFlt']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06614089012145996 segundos
+Rodada: 351
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '547_CTR_CDN_OBD']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05279946327209473 segundos
+Rodada: 352
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5A0_CF_Acu_ExtOfSab']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05061149597167969 segundos
+Rodada: 353
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '58B_CF_RCTA_IndRight']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.04995608329772949 segundos
+Rodada: 354
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_PSMDiagState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.052814483642578125 segundos
+Rodada: 355
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_SJBDiagState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06576991081237793 segundos
+Rodada: 356
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5A0_CF_Abg_DepInhEnt']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.052171945571899414 segundos
+Rodada: 357
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_BCMRKEID']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.052375078201293945 segundos
+Rodada: 358
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_HLLowRHFail']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08427047729492188 segundos
+Rodada: 359
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_ESCLFailWarn']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07810497283935547 segundos
+Rodada: 360
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_ESCLNotLockedWarn']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05545163154602051 segundos
+Rodada: 361
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_ESCLNotUnlockWarn']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05456900596618652 segundos
+Rodada: 362
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_IDoutWarn']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05933380126953125 segundos
+Rodada: 363
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_ImmoLp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06800222396850586 segundos
+Rodada: 364
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_VehicleNotPWarn']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05732083320617676 segundos
+Rodada: 365
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_WiperParkPosition']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06737303733825684 segundos
+Rodada: 366
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_DeactivationWarn']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06586670875549316 segundos
+Rodada: 367
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_KeyBATDischargeWarn']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06265711784362793 segundos
+Rodada: 368
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5A0_CF_Ods_IDRcv']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06162881851196289 segundos
+Rodada: 369
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_SSBWarn']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06361842155456543 segundos
+Rodada: 370
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_SMKFobID']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.1391756534576416 segundos
+Rodada: 371
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_SMKRKECmd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08247900009155273 segundos
+Rodada: 372
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_HLLowLHFail']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.1092064380645752 segundos
+Rodada: 373
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_CountryCfg']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05409431457519531 segundos
+Rodada: 374
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '502_CF_TCU_WarnMsg']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05409717559814453 segundos
+Rodada: 375
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_CLUSwEnter']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05357170104980469 segundos
+Rodada: 376
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_IPMDiagState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0601963996887207 segundos
+Rodada: 377
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_LDMFail']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.1911921501159668 segundos
+Rodada: 378
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5A0_CF_Ods_RZReq']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.1148538589477539 segundos
+Rodada: 379
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_CLUSwGuiCtrl']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.051213979721069336 segundos
+Rodada: 380
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_CLUSwGroup']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07682108879089355 segundos
+Rodada: 381
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_CLUSwMode']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06627273559570312 segundos
+Rodada: 382
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_BrakeFluidSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06029486656188965 segundos
+Rodada: 383
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_IntTailAct']
+F1 Score: 0.7769652650822669, Recall: 0.9550561797752809, Precision: 0.6548536209553159, Tempo: 0.09264016151428223 segundos
+Rodada: 384
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_DrvSeatBeltInd']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.12641119956970215 segundos
+Rodada: 385
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_AvTail']
+F1 Score: 0.765639589169001, Recall: 0.9213483146067416, Precision: 0.6549520766773163, Tempo: 0.07184624671936035 segundos
+Rodada: 386
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_RearFogAct']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.11327552795410156 segundos
+Rodada: 387
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_ExtTailAct']
+F1 Score: 0.7769652650822669, Recall: 0.9550561797752809, Precision: 0.6548536209553159, Tempo: 0.1079854965209961 segundos
+Rodada: 388
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_RRDrSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.18341755867004395 segundos
+Rodada: 389
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '553_CF_Gway_RLDrSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.057462215423583984 segundos
+Rodada: 390
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '502_CF_TCU_WarnImg']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06811642646789551 segundos
+Rodada: 391
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '042_CR_Datc_DrTempDispC']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07110595703125 segundos
+Rodada: 392
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '500_CF_SBR_Ind']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05656147003173828 segundos
+Rodada: 393
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CF_Tcu_SbwPInfo']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05859875679016113 segundos
+Rodada: 394
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_MSR_C_REQ']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.059296607971191406 segundos
+Rodada: 395
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_TCS_PAS']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.051363468170166016 segundos
+Rodada: 396
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_TCS_GSC']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06507182121276855 segundos
+Rodada: 397
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_CF_Esc_LimoInfo']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07068634033203125 segundos
+Rodada: 398
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_ABS_DIAG']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06691098213195801 segundos
+Rodada: 399
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_ABS_DEF']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05937695503234863 segundos
+Rodada: 400
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_TCS_DEF']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05662369728088379 segundos
+Rodada: 401
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_TCS_CTL']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06478404998779297 segundos
+Rodada: 402
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_ABS_ACT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0790252685546875 segundos
+Rodada: 403
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_EBD_DEF']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08198857307434082 segundos
+Rodada: 404
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_ESP_PAS']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.13892102241516113 segundos
+Rodada: 405
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_ESP_DEF']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09871435165405273 segundos
+Rodada: 406
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_ESP_CTL']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05425548553466797 segundos
+Rodada: 407
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_TCS_MFRN']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0729835033416748 segundos
+Rodada: 408
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_DBC_CTL']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06973671913146973 segundos
+Rodada: 409
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_TCS_REQ']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.10430741310119629 segundos
+Rodada: 410
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CF_Tcu_SptRdy']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09821677207946777 segundos
+Rodada: 411
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '500_CF_TTL_Ind']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05794095993041992 segundos
+Rodada: 412
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CR_Tcu_IsgTgtRPM']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0870661735534668 segundos
+Rodada: 413
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '112_INH_FUEL_CUT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09316587448120117 segundos
+Rodada: 414
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '112_IDLE_UP_TCU']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07050251960754395 segundos
+Rodada: 415
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '112_SPK_RTD_TCU']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09058690071105957 segundos
+Rodada: 416
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '112_N_TC_RAW']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07122659683227539 segundos
+Rodada: 417
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_N_TGT_LUP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06243014335632324 segundos
+Rodada: 418
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CF_Tcu_InhCda']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07200241088867188 segundos
+Rodada: 419
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CF_Tcu_IsgInhib']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08588790893554688 segundos
+Rodada: 420
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CF_Tcu_BkeOnReq']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07572054862976074 segundos
+Rodada: 421
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CF_Tcu_NCStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09811806678771973 segundos
+Rodada: 422
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CF_Tcu_ShfPatt']
+F1 Score: 0.7870036101083032, Recall: 0.9797752808988764, Precision: 0.6576168929110106, Tempo: 0.08975362777709961 segundos
+Rodada: 423
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CF_Tcu_InhVis']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06225275993347168 segundos
+Rodada: 424
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CF_Tcu_PRelReq']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06850218772888184 segundos
+Rodada: 425
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CF_Tcu_ITPhase']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06525039672851562 segundos
+Rodada: 426
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CF_Tcu_ActEcoRdy']
+F1 Score: 0.7807097361237488, Recall: 0.9640449438202248, Precision: 0.6559633027522935, Tempo: 0.049295663833618164 segundos
+Rodada: 427
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '113_CF_Tcu_TqGrdLim']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06156802177429199 segundos
+Rodada: 428
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_DBC_PAS']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05957365036010742 segundos
+Rodada: 429
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_DBC_DEF']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.062438249588012695 segundos
+Rodada: 430
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_HAC_CTL']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0539402961730957 segundos
+Rodada: 431
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_HAC_PAS']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0950477123260498 segundos
+Rodada: 432
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_EtcLimpMod']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05020642280578613 segundos
+Rodada: 433
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_UpTarGr']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05437469482421875 segundos
+Rodada: 434
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_DownTarGr']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.054292917251586914 segundos
+Rodada: 435
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_DesCurGr']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05422806739807129 segundos
+Rodada: 436
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_SldAct']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 1.7984764575958252 segundos
+Rodada: 437
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_SldPosAct']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0881814956665039 segundos
+Rodada: 438
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_HPresStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06169939041137695 segundos
+Rodada: 439
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_IsgBuz']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0534663200378418 segundos
+Rodada: 440
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_IdlStpFCO']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09724950790405273 segundos
+Rodada: 441
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_FCopen']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08527350425720215 segundos
+Rodada: 442
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_ActEcoAct']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05868983268737793 segundos
+Rodada: 443
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_EngRunNorm']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05337858200073242 segundos
+Rodada: 444
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_IsgStat2']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06727957725524902 segundos
+Rodada: 445
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '200_CF_Ems_PumpTPres']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0615231990814209 segundos
+Rodada: 446
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '200_Split_Stat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05826902389526367 segundos
+Rodada: 447
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_OilChg']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0632169246673584 segundos
+Rodada: 448
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_Ems_IsgStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06604766845703125 segundos
+Rodada: 449
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_CF_CdaStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.4969911575317383 segundos
+Rodada: 450
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_BLA_CTL']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.15349912643432617 segundos
+Rodada: 451
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_HAC_DEF']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.19303345680236816 segundos
+Rodada: 452
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_ESS_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09255099296569824 segundos
+Rodada: 453
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_TQI_TCS']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.059746742248535156 segundos
+Rodada: 454
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_TQI_MSR']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07827997207641602 segundos
+Rodada: 455
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_TQI_SLW_TCS']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07498979568481445 segundos
+Rodada: 456
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_CF_Esc_BrkCtl']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06711673736572266 segundos
+Rodada: 457
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '153_CheckSum_TCS1']
+F1 Score: 0.7185261003070624, Recall: 0.7887640449438202, Precision: 0.6597744360902256, Tempo: 0.07801365852355957 segundos
+Rodada: 458
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_SLD_VS']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07801532745361328 segundos
+Rodada: 459
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '162_Cluster_Engine_RPM_Flag']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0606381893157959 segundos
+Rodada: 460
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '164_CR_Esc_StrTqReq']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06052517890930176 segundos
+Rodada: 461
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '164_CF_Esc_Act']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05496978759765625 segundos
+Rodada: 462
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '164_CF_Esc_CtrMode']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05796074867248535 segundos
+Rodada: 463
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '164_CF_Esc_Def']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06270003318786621 segundos
+Rodada: 464
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '18F_R_TqAcnApvC']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06266307830810547 segundos
+Rodada: 465
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '112_FUEL_CUT_TCU']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0627896785736084 segundos
+Rodada: 466
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '112_CUR_GR']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0652921199798584 segundos
+Rodada: 467
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '112_ETL_TCU']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09676361083984375 segundos
+Rodada: 468
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_StopLampRhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05100727081298828 segundos
+Rodada: 469
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_DualDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06115221977233887 segundos
+Rodada: 470
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_PwrInf']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05939888954162598 segundos
+Rodada: 471
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_RearManual']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05373430252075195 segundos
+Rodada: 472
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_RearAutoDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06595635414123535 segundos
+Rodada: 473
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_RearOffDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.060353755950927734 segundos
+Rodada: 474
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_RearClimateScnDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06286025047302246 segundos
+Rodada: 475
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_RearChgReqDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05814623832702637 segundos
+Rodada: 476
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_RearModDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05348563194274902 segundos
+Rodada: 477
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_RearBlwDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.055397748947143555 segundos
+Rodada: 478
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_PSModDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06636571884155273 segundos
+Rodada: 479
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_FrontBlwDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.070770263671875 segundos
+Rodada: 480
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '044_CF_Datc_Type']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08373713493347168 segundos
+Rodada: 481
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '044_CF_Datc_VerMaj']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06675267219543457 segundos
+Rodada: 482
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '044_CF_Datc_VerMin']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.055425167083740234 segundos
+Rodada: 483
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '044_CR_Datc_OutTempF']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05865597724914551 segundos
+Rodada: 484
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Mtc_MaxAcDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05886387825012207 segundos
+Rodada: 485
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_OpSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05996274948120117 segundos
+Rodada: 486
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_AcDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05896568298339844 segundos
+Rodada: 487
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_ModDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06694674491882324 segundos
+Rodada: 488
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '042_CR_Datc_PsTempDispC']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05964207649230957 segundos
+Rodada: 489
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '042_CR_Datc_PsTempDispF']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07099103927612305 segundos
+Rodada: 490
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '042_CR_Datc_RearDrTempDispC']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05579519271850586 segundos
+Rodada: 491
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '042_CR_Datc_RearDrTempDispF']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.055872201919555664 segundos
+Rodada: 492
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '042_CF_Datc_CO2_Warning']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.060357093811035156 segundos
+Rodada: 493
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_TempDispUnit']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05818963050842285 segundos
+Rodada: 494
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_IonClean']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.060958147048950195 segundos
+Rodada: 495
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_AqsDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06436920166015625 segundos
+Rodada: 496
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_ChgReqDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05979800224304199 segundos
+Rodada: 497
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_IntakeDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.058721303939819336 segundos
+Rodada: 498
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_AutoDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06785249710083008 segundos
+Rodada: 499
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_FrDefLed']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06853866577148438 segundos
+Rodada: 500
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_AutoDefogBlink']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0672755241394043 segundos
+Rodada: 501
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '043_CF_Datc_ClmScanDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06261539459228516 segundos
+Rodada: 502
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_StopLampLhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05225801467895508 segundos
+Rodada: 503
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_HMSLOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.055511474609375 segundos
+Rodada: 504
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '111_N_TC']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.056836605072021484 segundos
+Rodada: 505
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_HLampLowLhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0511317253112793 segundos
+Rodada: 506
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_SBendingRhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06299185752868652 segundos
+Rodada: 507
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_LicensePlateLhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.053709983825683594 segundos
+Rodada: 508
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_LicensePlateRhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05378890037536621 segundos
+Rodada: 509
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '080_TQ_STND']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05600929260253906 segundos
+Rodada: 510
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '080_F_N_ENG']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0633704662322998 segundos
+Rodada: 511
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '080_F_SUB_TQI']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05374479293823242 segundos
+Rodada: 512
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '081_CR_Ems_SoakTimeExt']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.052056074142456055 segundos
+Rodada: 513
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '081_CF_Ems_EngOperStat']
+F1 Score: 0.7702325581395348, Recall: 0.9303370786516854, Precision: 0.6571428571428571, Tempo: 0.05989360809326172 segundos
+Rodada: 514
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '111_TQI_TCU_INC']
+F1 Score: 0.781021897810219, Recall: 0.9617977528089887, Precision: 0.6574500768049155, Tempo: 0.05347895622253418 segundos
+Rodada: 515
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '111_G_SEL_DISP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0600435733795166 segundos
+Rodada: 516
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '111_F_TCU']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.051796674728393555 segundos
+Rodada: 517
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '111_TCU_TYPE']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06091189384460449 segundos
+Rodada: 518
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '111_TCU_OBD']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05337929725646973 segundos
+Rodada: 519
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '111_GEAR_TYPE']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.054327964782714844 segundos
+Rodada: 520
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '111_TEMP_AT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05070376396179199 segundos
+Rodada: 521
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_SBendingLhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06235003471374512 segundos
+Rodada: 522
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_FrontTSIGRhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06287717819213867 segundos
+Rodada: 523
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_FrontTSIGLhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.2599358558654785 segundos
+Rodada: 524
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_RearFOGRhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.14559292793273926 segundos
+Rodada: 525
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_HLampLowRhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08305692672729492 segundos
+Rodada: 526
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_HLampHighLhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07268929481506348 segundos
+Rodada: 527
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_HLampHighRhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06889510154724121 segundos
+Rodada: 528
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_DRLLampLhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.5678343772888184 segundos
+Rodada: 529
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_DRLLampRhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0634610652923584 segundos
+Rodada: 530
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_RearFOGLhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05379176139831543 segundos
+Rodada: 531
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_FrontFOGLhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06284022331237793 segundos
+Rodada: 532
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_RearTSIGRhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.055998802185058594 segundos
+Rodada: 533
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_FrontFOGRhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0570833683013916 segundos
+Rodada: 534
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_RearEXTTailLhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06043362617492676 segundos
+Rodada: 535
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_RearEXTTailRhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09169197082519531 segundos
+Rodada: 536
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_FrontEXTTailLhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05803680419921875 segundos
+Rodada: 537
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_FrontEXTTailRhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05523395538330078 segundos
+Rodada: 538
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '07F_C_RearTSIGLhOpenSts']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06378722190856934 segundos
+Rodada: 539
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '220_LAT_ACCEL_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06778836250305176 segundos
+Rodada: 540
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '220_LAT_ACCEL_DIAG']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.055756568908691406 segundos
+Rodada: 541
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '220_LONG_ACCEL_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09733128547668457 segundos
+Rodada: 542
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '47F__4WD_CLU_LIM']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.13605928421020508 segundos
+Rodada: 543
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '436_CF_Gway_PASDisplayRCTR']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.15485477447509766 segundos
+Rodada: 544
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '436_CF_Gway_PASFsound']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.12987136840820312 segundos
+Rodada: 545
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '436_CF_Gway_PASDisplayRLH']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0659937858581543 segundos
+Rodada: 546
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '436_CF_Gway_PASDisplayRRH']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.057034969329833984 segundos
+Rodada: 547
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '436_CF_Gway_PASCheckSound']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05298566818237305 segundos
+Rodada: 548
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '436_CF_Gway_PASSystemOn']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.04914402961730957 segundos
+Rodada: 549
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '436_CF_Gway_PASOption']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.04878830909729004 segundos
+Rodada: 550
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '436_CF_Gway_PASDistance']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.04875922203063965 segundos
+Rodada: 551
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '47F_AVH_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0510103702545166 segundos
+Rodada: 552
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '47F_LDM_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.059711456298828125 segundos
+Rodada: 553
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '47F_REQ_EPB_ACT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.056067466735839844 segundos
+Rodada: 554
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '47F_REQ_EPB_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08130717277526855 segundos
+Rodada: 555
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '47F_ECD_ACT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05026578903198242 segundos
+Rodada: 556
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '47F__4WD_LIM_REQ']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06363224983215332 segundos
+Rodada: 557
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '042_CR_Datc_DrTempDispF']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06812405586242676 segundos
+Rodada: 558
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '436_CF_Gway_PASDisplayFCTR']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05894732475280762 segundos
+Rodada: 559
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '436_CF_Gway_PASRsound']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05470418930053711 segundos
+Rodada: 560
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '436_CF_Gway_PASDisplayFRH']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.04952812194824219 segundos
+Rodada: 561
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_OTTurnRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.056546926498413086 segundos
+Rodada: 562
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_TTUnlockRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.051116943359375 segundos
+Rodada: 563
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_ADrLRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0584568977355957 segundos
+Rodada: 564
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_ADrURValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05413818359375 segundos
+Rodada: 565
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_SCMRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0523223876953125 segundos
+Rodada: 566
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_WlightRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0637822151184082 segundos
+Rodada: 567
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_PSMRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0497894287109375 segundos
+Rodada: 568
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_DrLockSoundRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05496573448181152 segundos
+Rodada: 569
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '436_CF_Gway_PASDisplayFLH']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05953049659729004 segundos
+Rodada: 570
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_HAnBRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.3142836093902588 segundos
+Rodada: 571
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_MoodLpRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.26333093643188477 segundos
+Rodada: 572
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_HfreeTrunkRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05337715148925781 segundos
+Rodada: 573
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_AutoLightRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.051439523696899414 segundos
+Rodada: 574
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_RearWiperRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05547332763671875 segundos
+Rodada: 575
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_PasSpkrLvRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05529356002807617 segundos
+Rodada: 576
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '47F__4WD_TQC_LIM']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05247163772583008 segundos
+Rodada: 577
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '47F__4WD_OPEN']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.058260440826416016 segundos
+Rodada: 578
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_PTGMRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05579090118408203 segundos
+Rodada: 579
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '47F__4WD_LIM_MODE']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05059409141540527 segundos
+Rodada: 580
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '492_CF_Ems_DecelReq']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.050623178482055664 segundos
+Rodada: 581
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '492_CR_Ems_BstPre']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.055161237716674805 segundos
+Rodada: 582
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '492_CR_Ems_EngOilTemp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06023454666137695 segundos
+Rodada: 583
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '492_DPF_LAMP_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05512356758117676 segundos
+Rodada: 584
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '492_BAT_LAMP_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05683135986328125 segundos
+Rodada: 585
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '492_CF_Ems_ModeledAmbTemp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05800485610961914 segundos
+Rodada: 586
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '492_CF_Ems_OPSFail']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0606989860534668 segundos
+Rodada: 587
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '4F1_CF_Clu_CruiseSwState']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06925845146179199 segundos
+Rodada: 588
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '4F1_CF_Clu_CruiseSwMain']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07491230964660645 segundos
+Rodada: 589
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '4F1_CF_Clu_SldMainSW']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06408977508544922 segundos
+Rodada: 590
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '4F1_CF_Clu_SPEED_UNIT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.050032615661621094 segundos
+Rodada: 591
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '4F1_CF_Clu_RheostatLevel']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06131601333618164 segundos
+Rodada: 592
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '4F1_CF_Clu_CluInfo']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05884814262390137 segundos
+Rodada: 593
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '4F1_CF_Clu_AmpInfo']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.056906700134277344 segundos
+Rodada: 594
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '500_CF_SWL_Ind']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.1404097080230713 segundos
+Rodada: 595
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '492_CF_Ems_AAFOpenReq']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.1082162857055664 segundos
+Rodada: 596
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '492_CF_Ems_RepModChk']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.23345446586608887 segundos
+Rodada: 597
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '492_CF_Ems_DnShftReq']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06702351570129395 segundos
+Rodada: 598
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '490_EPB_STATUS']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.1913008689880371 segundos
+Rodada: 599
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '490_EPB_I_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0809326171875 segundos
+Rodada: 600
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '490_EPB_F_LAMP']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07080984115600586 segundos
+Rodada: 601
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '490_EPB_ALARM']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06158018112182617 segundos
+Rodada: 602
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '490_EPB_CLU']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07517361640930176 segundos
+Rodada: 603
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '490_EPB_SWITCH']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08345723152160645 segundos
+Rodada: 604
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '490_EPB_RBL']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.08730626106262207 segundos
+Rodada: 605
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '490_EPB_FRC_ERR']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07010698318481445 segundos
+Rodada: 606
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '492_CF_Ems_BrkReq']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06750655174255371 segundos
+Rodada: 607
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '490_EPB_DBF_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09255099296569824 segundos
+Rodada: 608
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '490_ESP_ACK']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06725478172302246 segundos
+Rodada: 609
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '490_EPB_DBF_REQ']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07503771781921387 segundos
+Rodada: 610
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '490_EPB_FAIL']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06726336479187012 segundos
+Rodada: 611
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '490_EPB_FORCE']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07302451133728027 segundos
+Rodada: 612
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '490_EPB_DBF_DECEL']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07185006141662598 segundos
+Rodada: 613
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_EscortHLRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.19532299041748047 segundos
+Rodada: 614
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '410_CF_Gway_ATTurnRValue']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.257565975189209 segundos
+Rodada: 615
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '220_LONG_ACCEL_DIAG']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.10277676582336426 segundos
+Rodada: 616
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_BRAKE_ACT']
+F1 Score: 0.7798165137614679, Recall: 0.9550561797752809, Precision: 0.6589147286821705, Tempo: 0.0563504695892334 segundos
+Rodada: 617
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '260_SPK_TIME_CUR']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05995750427246094 segundos
+Rodada: 618
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '260_CF_Ems_AclAct']
+F1 Score: 0.781021897810219, Recall: 0.9617977528089887, Precision: 0.6574500768049155, Tempo: 0.052352190017700195 segundos
+Rodada: 619
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '2B0_SAS_Stat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05627274513244629 segundos
+Rodada: 620
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '316_SWI_IGK']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07185053825378418 segundos
+Rodada: 621
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '316_F_N_ENG']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.1525862216949463 segundos
+Rodada: 622
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '316_ACK_TCS']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05981802940368652 segundos
+Rodada: 623
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '316_PUC_STAT']
+F1 Score: 0.7753222836095764, Recall: 0.946067415730337, Precision: 0.656786271450858, Tempo: 0.05294489860534668 segundos
+Rodada: 624
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '316_TQ_COR_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.055776119232177734 segundos
+Rodada: 625
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '316_RLY_AC']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05664515495300293 segundos
+Rodada: 626
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '316_F_SUB_TQI']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07507562637329102 segundos
+Rodada: 627
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '316_RATIO_TQI_BAS_MAX_STND']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05705761909484863 segundos
+Rodada: 628
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_VB_OFF_ACT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06170177459716797 segundos
+Rodada: 629
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_ACK_ES']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.09128665924072266 segundos
+Rodada: 630
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_CONF_MIL_FMY']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07404494285583496 segundos
+Rodada: 631
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_OD_OFF_REQ']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.060141563415527344 segundos
+Rodada: 632
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '260_TQI_MAX']
+F1 Score: 0.7821330902461258, Recall: 0.9640449438202248, Precision: 0.6579754601226994, Tempo: 0.052698612213134766 segundos
+Rodada: 633
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '260_SOAK_TIME']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0529179573059082 segundos
+Rodada: 634
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '260_SOAK_TIME_ERROR']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.050807952880859375 segundos
+Rodada: 635
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '251_CF_Mdps_ToiUnavail']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.15345549583435059 segundos
+Rodada: 636
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '220_CYL_PRES_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.20660662651062012 segundos
+Rodada: 637
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '220_CYL_PRESS_DIAG']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.13068509101867676 segundos
+Rodada: 638
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '220_YAW_RATE_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05387115478515625 segundos
+Rodada: 639
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '220_YAW_RATE_DIAG']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06275224685668945 segundos
+Rodada: 640
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '251_CR_Mdps_StrColTq']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05023622512817383 segundos
+Rodada: 641
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '251_CF_Mdps_Def']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06765151023864746 segundos
+Rodada: 642
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '251_CF_Mdps_ToiActive']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06139659881591797 segundos
+Rodada: 643
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '260_PRE_FUEL_CUT_IN']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05575203895568848 segundos
+Rodada: 644
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '251_CF_Mdps_ToiFlt']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.055786848068237305 segundos
+Rodada: 645
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '251_CF_Mdps_FailStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06723427772521973 segundos
+Rodada: 646
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '251_CF_Mdps_SErr']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05663156509399414 segundos
+Rodada: 647
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '260_GLOW_STAT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05568051338195801 segundos
+Rodada: 648
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '260_CRUISE_LAMP_M']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05060553550720215 segundos
+Rodada: 649
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '260_CRUISE_LAMP_S']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05296969413757324 segundos
+Rodada: 650
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_ACC_ACT']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.050263166427612305 segundos
+Rodada: 651
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_ENG_CHR']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05720067024230957 segundos
+Rodada: 652
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '387_WHL_DIR_RR']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.054209232330322266 segundos
+Rodada: 653
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_GP_CTL']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05796003341674805 segundos
+Rodada: 654
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CF_Fatc_EcvFlt']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07110595703125 segundos
+Rodada: 655
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CF_Fatc_BlwrOn']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.060379981994628906 segundos
+Rodada: 656
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CF_FATC_Iden']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05656695365905762 segundos
+Rodada: 657
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CF_Fatc_BlwrMax']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.054656267166137695 segundos
+Rodada: 658
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CF_Fatc_EngStartReq']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.060810089111328125 segundos
+Rodada: 659
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CF_Fatc_IsgStopReq']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05058717727661133 segundos
+Rodada: 660
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CF_Fatc_CtrInf']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.053460121154785156 segundos
+Rodada: 661
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CF_Fatc_Compload']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05735921859741211 segundos
+Rodada: 662
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CF_Fatc_ActiveEco']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0557093620300293 segundos
+Rodada: 663
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CF_Fatc_AutoActivation']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06115388870239258 segundos
+Rodada: 664
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CF_Fatc_DefSw']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05888986587524414 segundos
+Rodada: 665
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CF_Fatc_PtcRlyStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.04978680610656738 segundos
+Rodada: 666
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '387_WHL_DIR_FL']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0638427734375 segundos
+Rodada: 667
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '387_WHL_DIR_FR']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0506434440612793 segundos
+Rodada: 668
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '387_WHL_DIR_RL']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05687093734741211 segundos
+Rodada: 669
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CF_Fatc_AcnCltEnRq']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05837702751159668 segundos
+Rodada: 670
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CF_Fatc_AcnRqSwi']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.0707249641418457 segundos
+Rodada: 671
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '383_CR_Fatc_TqAcnOut']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06405806541442871 segundos
+Rodada: 672
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '381_CF_Mdps_Flex']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.052094221115112305 segundos
+Rodada: 673
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_ENG_VOL']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06709551811218262 segundos
+Rodada: 674
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_CONF_TCU']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05378580093383789 segundos
+Rodada: 675
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_OBD_FRF_ACK']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06113147735595703 segundos
+Rodada: 676
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_TQ_STND']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.07266068458557129 segundos
+Rodada: 677
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '329_CAN_VERS']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.059850215911865234 segundos
+Rodada: 678
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '381_CF_Mdps_WLmp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.052641868591308594 segundos
+Rodada: 679
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '381_CF_Mdps_FlexDisp']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.061664581298828125 segundos
+Rodada: 680
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '381_CF_Mdps_Type']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.052880287170410156 segundos
+Rodada: 681
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '381_CF_Mdps_Stat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05381274223327637 segundos
+Rodada: 682
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '381_CR_Mdps_DrvTq']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05145835876464844 segundos
+Rodada: 683
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '381_CF_Mdps_ALTRequest']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05137133598327637 segundos
+Rodada: 684
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '381_CF_Mdps_SPAS_FUNC']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05276846885681152 segundos
+Rodada: 685
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '381_CF_Mdps_LKAS_FUNC']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.051455020904541016 segundos
+Rodada: 686
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '381_CF_Mdps_CurrMode']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.06643390655517578 segundos
+Rodada: 687
+Features atuais: 
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB', '5FA_CR_Wcs_ClassStat']
+F1 Score: 0.7873873873873873, Recall: 0.9820224719101124, Precision: 0.6571428571428571, Tempo: 0.05280637741088867 segundos
+Melhores features finais:
+ ['260_TQI_MIN', '260_ENG_STAT', '080_CF_Ems_Alive', '386_WHL_SPD_Checksum_LSB']
+Melhor F1 Score: 0.7873873873873873
