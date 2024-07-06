@@ -116,20 +116,36 @@ O IWSHAP disponibiliza um ambiente Docker com todas as configurações e depend�
   
 </details>
 
-# ⚙️ Executando a ferramenta
+# ⚙️ Executando a ferramenta (Execução com os datasets reduzidos)
   Exemplo de execução simples:
   ```
-  python3 IWSHAP.py -s dataset/safe_dataset_reduced.csv -a dataset/attack_dataset_reduced_fabr.csv
+  python3 IWSHAP.py -s dataset/safe_dataset.csv -a dataset/attack_dataset_fabr.csv
   ```
 
   Exemplo de execução gerando gráfico summary plot:
   ```
-  python3 IWSHAP.py -s dataset/safe_dataset_reduced.csv -a dataset/attack_dataset_reduced_fabr.csv -x
+  python3 IWSHAP.py -s dataset/safe_dataset.csv -a dataset/attack_dataset_fabr.csv -x
   ```
 
   Exemplo de execução gerando gráfico summary plot e o dataset reduzido:
   ```
-  python3 IWSHAP.py -s dataset/safe_dataset_reduced.csv -a dataset/attack_dataset_reduced_fabr.csv -x -n
+  python3 IWSHAP.py -s dataset/safe_dataset.csv -a dataset/attack_dataset_fabr.csv -x -n
+  ```
+
+# ⚙️ Executando a ferramenta(Execução com os datasets completos)
+  Exemplo de execução simples:
+  ```
+  python3 IWSHAP.py -s dataset/safe_dataset_full.parquet -a dataset/attack_dataset_fabr_260h_full.parquet
+  ```
+
+  Exemplo de execução gerando gráfico summary plot:
+  ```
+  python3 IWSHAP.py -s dataset/safe_dataset_full.parquet -a dataset/attack_dataset_fabr_260h_full.parquet -x
+  ```
+
+  Exemplo de execução gerando gráfico summary plot e o dataset reduzido:
+  ```
+  python3 IWSHAP.py -s dataset/safe_dataset_full.parquet -a dataset/attack_dataset_fabr_260h_full.parquet -x -n
   ```
 
 ## Significado das flags
