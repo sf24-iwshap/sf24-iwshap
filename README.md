@@ -182,4 +182,4 @@ Para ambiente de teste fez-se o uso de um servidor com:
 - 64 GB de memória RAM
 
 ## Executando o dataset de demonstração
-Se deseja apenas testar a ferramenta para familiarizar-se com o uso, não é necessário informar os caminhos para seus próprios datasets. É possível utilizar os datasets de demonstração incluídos, que possuem um tamanho reduzido e, consequentemente, exigem menos tempo e recursos para sua execução.
+Se voocê deseja apenas testar a ferramenta para familiarizar-se com o uso, não é necessário informar os caminhos para seus próprios datasets. É possível utilizar os datasets de demonstração incluídos, que possuem um tamanho reduzido e, consequentemente, exigem menos tempo e recursos para sua execução.
